@@ -73,7 +73,7 @@ p {
   margin-bottom: 15px;
 }
 .sideAccent {
-  background: #007bff;
+  background: red;
   width: 15px;
 }
 .imageContainer {
@@ -109,6 +109,9 @@ form {
   -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1);
   background-color: darkgoldenrod;
+}
+.form-control {
+  background-color:blanchedalmond;
 } 
 .cardContainer {
   margin-top: 20px;
@@ -118,4 +121,5 @@ form {
 }
 .btn-primary {
   background-color: darkred;
+  border: red;
 }
